@@ -1,0 +1,36 @@
+
+html{
+    font-size: 16px;
+}
+
+
+body{
+    background-color: #e6f2ff;
+    color: #1a1a2e;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a:visited{
+    color: rgb(8, 8, 7);
+}
+
+    a:hover{
+        color: aquamarine;
+    }
+
+    a:active {
+        color: rgb(43, 55, 66);
+    }
+
+    table, tr,th,td,caption{
+        border: 1px solid #1a1a2e;
+        font-family: 'Courier New', Courier, monospace;
+        border-collapse: collapse;
+        padding: 0.5rem;
+
+    }
+    
+    
+
+    
